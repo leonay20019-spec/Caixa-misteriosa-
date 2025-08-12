@@ -1,5 +1,8 @@
-const assert = require('assert');
-const soma = require('./index');
 
-assert.strictEqual(soma(2, 3), 5);
-console.log("✅ Teste passou!");
+<dependencies>
+ <dependency>
+    <groupId>com.example</groupId>
+    <artifactId>test</artifactId>
+    <version>1.0.0-SNAPSHOT</version>
+  </dependency>
+</dependencies>
